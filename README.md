@@ -11,19 +11,19 @@ Dataset Description
 The dataset consists of 6 feature columns and 1 target column (Charges).
 Attribute	Description	Data Type
 
-Age	        Age of the insured person	           Integer
+Age,	        Age of the insured person,           Integer
 
-Sex	        Gender (Male/Female)            	   Categorical
+Sex,	        Gender (Male/Female),            	   Categorical
 
-BMI         Body Mass Index (weight/height²)	   Float
+BMI,         Body Mass Index (weight/height²),	   Float
 
-Children	  Number of dependents	               Integer
+Children,	  Number of dependents,	               Integer
 
-Smoker	    Smoking habit (Yes/No)	             Categorical
+Smoker,	    Smoking habit (Yes/No),	             Categorical
 
-Region	    Residential area (NE, NW, SE, SW)	   Categorical
+Region,	    Residential area (NE, NW, SE, SW),	   Categorical
 
-Charges	    Insurance premium amount (Target)  	 Float
+Charges,	    Insurance premium amount (Target),  	 Float
 
 Data Preprocessing & EDA
 
