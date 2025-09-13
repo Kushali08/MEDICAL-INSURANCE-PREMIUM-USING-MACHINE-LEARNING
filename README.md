@@ -9,6 +9,7 @@ Compare different ML models to find the best-performing one.
 
 Dataset Description
 The dataset consists of 6 feature columns and 1 target column (Charges).
+
 Attribute	Description	Data Type
 
 Age,	        Age of the insured person,           Integer
